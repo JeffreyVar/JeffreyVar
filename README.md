@@ -1,5 +1,7 @@
 # Welcome! 👋
 
+[![LinkedIn](https://github.com/JeffreyVar/JeffreyVar/assets/122953104/23ea1ad2-1a8c-4d87-84be-5aa0e0a4e3fd)](https://www.linkedin.com/in/jeff-var/)
+
 <!--
 **JeffreyVar/JeffreyVar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
