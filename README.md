@@ -13,6 +13,7 @@
 - 🛹 Novice Longboarder
 - 🚜 [Lawn Dad](README_Visuals/Lawn.png)
 - ♨️ BBQ Enthusiast
+- 👷🏽‍♂️ Licensed Building Inspector & Plans Examiner
 - 🧠 Perpertually Curious Person
 
 ---
