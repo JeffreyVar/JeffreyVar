@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there! 👋 </h1>
+<h1 align="center"> Hello there! 👋  My name is Jeff! </h1>
 
 ### Connect with Me
 
@@ -7,7 +7,7 @@
 
 ---
 
-## My name is Jeff. I am a(n)...
+## I am a(n)...
 - 💻 Full Stack Software Developer
 - 👴🏽 [Aspiring Great-Grandfather](README_Visuals/Family_photo.jpg)
 - 🛹 Novice Longboarder
