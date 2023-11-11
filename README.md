@@ -7,7 +7,7 @@
 
 ---
 
-### My name is Jeff. I am a(n)...
+## My name is Jeff. I am a(n)...
 - 💻 Full Stack Software Developer
 - 👴🏽 [Aspiring Great-Grandfather](README_Visuals/Family_photo.jpg)
 - 🛹 Novice Longboarder
@@ -57,6 +57,12 @@
 </p>
 
 ---
+
+## My Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeffreyVar&border_radius=true&count_private=true&theme=vision-friendly-dark&custom_title=Total%20Stats:" width="415px" height="200px"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyVar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JeffreyVar/JeffreyVar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
