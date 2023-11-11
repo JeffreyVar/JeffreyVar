@@ -1,6 +1,6 @@
 <h1 align="center"> Hello there! 👋 </h1>
 
-## Connect with Me
+### Connect with Me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" />](https://www.linkedin.com/in/jeff-var/)
 [<img src="https://img.shields.io/badge/Facebook-316FF6?style=for-the-badge&logo=facebook&logoColor=white" height="30px" />](https://www.facebook.com/jeffvarughese/)
@@ -8,12 +8,14 @@
 ---
 
 ### My name is Jeff. I am a(n)...
-- Full Stack Software Developer
-- [Aspiring Great-Grandfather](README_Visuals/Family_photo.jpg)
-- [Lawn Dad](README_Visuals/Lawn.png)
-- Novice Longboarder
-- BBQ Enthusiast
-- Perpertually Curious Person
+- 💻 Full Stack Software Developer
+- 👴🏽 [Aspiring Great-Grandfather](README_Visuals/Family_photo.jpg)
+- 🛹 Novice Longboarder
+- 🚜 [Lawn Dad](README_Visuals/Lawn.png)
+- ♨️ BBQ Enthusiast
+- 🧠 Perpertually Curious Person
+
+---
 
 ## Technologies
 
@@ -53,6 +55,8 @@
     <img src="https://img.shields.io/badge/Amazon%20AWS-yellow?style=for-the-badge&logo=amazonaws&logoColor=white" height="25px" >
     <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25px"/>
 </p>
+
+---
 
 <!--
 **JeffreyVar/JeffreyVar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
