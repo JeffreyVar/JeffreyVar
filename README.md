@@ -1,12 +1,11 @@
-# Welcome! 👋
+<h1 align="center"> Hello there! 👋 </h1>
 
 ## Connect with Me
-[<img src="./README_Visuals/LinkedIn.svg" height="35px"/>](https://www.linkedin.com/in/jeff-var/)
-[<img src="./README_Visuals/Facebook.svg" height="35px"/>](https://www.facebook.com/jeffvarughese/)
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" />](https://www.linkedin.com/in/jeff-var/)
+[<img src="https://img.shields.io/badge/Facebook-316FF6?style=for-the-badge&logo=facebook&logoColor=white" height="30px" />](https://www.facebook.com/jeffvarughese/)
 
 ---
-
-
 
 ### My name is Jeff. I am a(n)...
 - Full Stack Software Developer
@@ -15,7 +14,6 @@
 - Novice Longboarder
 - BBQ Enthusiast
 - Perpertually Curious Person
-- Advocate for Empathy
 
 ## Technologies
 
@@ -43,6 +41,8 @@
 <p float="left">
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25px"/>
     <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25px"/>
+    <img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=Figma&logoColor=white" height="25px"/>
+    <img src="https://img.shields.io/badge/Heroku-230098?style=for-the-badge&logo=Heroku&logoColor=white" height="25px">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25px"/>
     <img src="https://img.shields.io/badge/Postico-blue?style=for-the-badge&logoColor=white" height="25px">
 </p>
