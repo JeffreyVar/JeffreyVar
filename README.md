@@ -11,8 +11,8 @@
 - 💻 Full Stack Software Developer
 - 👴🏽 [Aspiring Great-Grandfather](README_Visuals/Family_photo.jpg)
 - 🛹 Novice Longboarder
-- 🚜 [Lawn Dad](README_Visuals/Lawn.png)
-- ♨️ BBQ Enthusiast
+- 🚜 [Lawn Nerd](README_Visuals/Lawn.png)
+- 🥘 Budding Home Chef
 - 👷🏽‍♂️ Licensed Building Inspector & Plans Examiner
 - 🧠 Perpertually Curious Person
 
@@ -64,18 +64,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeffreyVar&border_radius=true&count_private=true&theme=vision-friendly-dark&custom_title=Total%20Stats:" width="415px" height="200px"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyVar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**JeffreyVar/JeffreyVar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
