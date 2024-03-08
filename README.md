@@ -54,7 +54,7 @@
 <p float="left">
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
     <img src="https://img.shields.io/badge/Amazon%20AWS-yellow?style=for-the-badge&logo=amazonaws&logoColor=white" height="25px" >
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25px"/>
+    <img src="https://img.shields.io/badge/Jest-C63D14?style=for-the-badge&logo=jest&logoColor=white" height="25px"/>
 </p>
 
 ---
